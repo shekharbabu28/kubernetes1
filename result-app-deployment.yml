@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: Result-app-deployment
+  name: result-app-deployment
   labels:
     name: result-app
     author: intelliqit
